@@ -7,10 +7,7 @@
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
-<<<<<<< HEAD
     --color-indigo-500: oklch(58.5% 0.233 277.117);
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
     --color-white: #fff;
     --font-weight-light: 300;
     --font-weight-normal: 400;
@@ -350,12 +347,9 @@
   .border-collapse {
     border-collapse: collapse;
   }
-<<<<<<< HEAD
   .cursor-pointer {
     cursor: pointer;
   }
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
   .resize {
     resize: both;
   }
@@ -377,12 +371,9 @@
   .justify-between {
     justify-content: space-between;
   }
-<<<<<<< HEAD
   .justify-evenly {
     justify-content: space-evenly;
   }
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
   .gap-\[6px\] {
     gap: 6px;
   }
@@ -415,6 +406,9 @@
   }
   .gap-\[50px\] {
     gap: 50px;
+  }
+  .gap-\[53px\] {
+    gap: 53px;
   }
   .gap-\[60px\] {
     gap: 60px;
@@ -468,12 +462,9 @@
   .bg-\[white\] {
     background-color: white;
   }
-<<<<<<< HEAD
   .bg-transparent {
     background-color: transparent;
   }
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
   .p-\[10px_10px\] {
     padding: 10px 10px;
   }
@@ -597,7 +588,6 @@
     outline-style: var(--tw-outline-style);
     outline-width: 1px;
   }
-<<<<<<< HEAD
   .transition-colors {
     transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
     transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -611,8 +601,6 @@
     --tw-outline-style: none;
     outline-style: none;
   }
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
 }
 @property --tw-border-style {
   syntax: "*";
@@ -628,23 +616,17 @@
   inherits: false;
   initial-value: solid;
 }
-<<<<<<< HEAD
 @property --tw-duration {
   syntax: "*";
   inherits: false;
 }
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
       --tw-border-style: solid;
       --tw-font-weight: initial;
       --tw-outline-style: solid;
-<<<<<<< HEAD
       --tw-duration: initial;
-=======
->>>>>>> 17eb92d93f877bef8c996033ce5a780122eb8d1e
     }
   }
 }
