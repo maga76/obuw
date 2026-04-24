@@ -215,6 +215,21 @@
   .mt-\[120px\] {
     margin-top: 120px;
   }
+  .mr-\[-10px\] {
+    margin-right: -10px;
+  }
+  .mr-\[-100px\] {
+    margin-right: -100px;
+  }
+  .mr-\[-1000px\] {
+    margin-right: -1000px;
+  }
+  .mr-\[10px\] {
+    margin-right: 10px;
+  }
+  .mr-\[1000px\] {
+    margin-right: 1000px;
+  }
   .mb-\[16px\] {
     margin-bottom: 16px;
   }
@@ -263,6 +278,9 @@
   .ml-\[25px\] {
     margin-left: 25px;
   }
+  .ml-\[40px\] {
+    margin-left: 40px;
+  }
   .ml-\[50px\] {
     margin-left: 50px;
   }
@@ -283,6 +301,9 @@
   }
   .ml-\[500px\] {
     margin-left: 500px;
+  }
+  .ml-\[1000px\] {
+    margin-left: 1000px;
   }
   .flex {
     display: flex;
@@ -370,6 +391,9 @@
   }
   .justify-between {
     justify-content: space-between;
+  }
+  .justify-center {
+    justify-content: center;
   }
   .justify-evenly {
     justify-content: space-evenly;
@@ -459,11 +483,29 @@
   .bg-\[\#b07840\] {
     background-color: #b07840;
   }
+  .bg-\[url\] {
+    background-color: url;
+  }
   .bg-\[white\] {
     background-color: white;
   }
   .bg-transparent {
     background-color: transparent;
+  }
+  .bg-\[url\(\)\] {
+    background-image: url();
+  }
+  .bg-\[url\(\.\/\)\] {
+    background-image: url(./);
+  }
+  .bg-\[url\(\.\/image\)\] {
+    background-image: url(./image);
+  }
+  .bg-\[url\(\.\/image\.\)\] {
+    background-image: url(./image.);
+  }
+  .bg-\[url\(\.\/image\.re\)\] {
+    background-image: url(./image.re);
   }
   .p-\[10px_10px\] {
     padding: 10px 10px;
