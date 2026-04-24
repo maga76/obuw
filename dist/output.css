@@ -217,8 +217,35 @@
   .mb-\[16px\] {
     margin-bottom: 16px;
   }
+  .ml-\[-10px\] {
+    margin-left: -10px;
+  }
+  .ml-\[-20px\] {
+    margin-left: -20px;
+  }
+  .ml-\[-100px\] {
+    margin-left: -100px;
+  }
+  .ml-\[-150px\] {
+    margin-left: -150px;
+  }
+  .ml-\[-170px\] {
+    margin-left: -170px;
+  }
+  .ml-\[-180px\] {
+    margin-left: -180px;
+  }
+  .ml-\[-190px\] {
+    margin-left: -190px;
+  }
+  .ml-\[-195px\] {
+    margin-left: -195px;
+  }
   .ml-\[-200px\] {
     margin-left: -200px;
+  }
+  .ml-\[2px\] {
+    margin-left: 2px;
   }
   .ml-\[10px\] {
     margin-left: 10px;
@@ -226,8 +253,35 @@
   .ml-\[12px\] {
     margin-left: 12px;
   }
+  .ml-\[20\] {
+    margin-left: 20;
+  }
+  .ml-\[20px\] {
+    margin-left: 20px;
+  }
+  .ml-\[25px\] {
+    margin-left: 25px;
+  }
+  .ml-\[50px\] {
+    margin-left: 50px;
+  }
+  .ml-\[70px\] {
+    margin-left: 70px;
+  }
+  .ml-\[80px\] {
+    margin-left: 80px;
+  }
+  .ml-\[100px\] {
+    margin-left: 100px;
+  }
+  .ml-\[200px\] {
+    margin-left: 200px;
+  }
   .ml-\[300px\] {
     margin-left: 300px;
+  }
+  .ml-\[500px\] {
+    margin-left: 500px;
   }
   .flex {
     display: flex;
@@ -499,6 +553,12 @@
   }
   .text-\[black\] {
     color: black;
+  }
+  .text-\[cente\] {
+    color: cente;
+  }
+  .text-\[center\] {
+    color: center;
   }
   .text-white {
     color: var(--color-white);
